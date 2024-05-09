@@ -2,8 +2,8 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>du-hast</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="stolbitsa" repo="tonic"/>
+  <version>v1.0.1</version>
+  <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <en>627fda151ba7cae5b99703b9902b17e5206e4a335715e13a4677863baaeed3f3</en>
     <ru>627fda151ba7cae5b99703b9902b17e5206e4a335715e13a4677863baaeed3f3</ru>
@@ -14,7 +14,7 @@
     <bpm>126</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>5</tonalities>
-    <video name="du-hast0_.mp4" size="1589992" type="video/mp4" volume="1">d7c78a16629b97df136fcf0eafcbfe188b880ff5a5c12fb57a225f5faf8864b4</video>
+    <video name="du-hast_0_.mp4" size="2016988" type="video/mp4" volume="1">dd6621510972a609b7c122f9d5725d646ae88ad4e8528e5aad84e6cc128a1872</video>
     <notes>
       <note number="1" values="1" ticks="180" durationTicks="95" ppq="96" velocity="0.843"/>
       <note number="2" values="1" ticks="521" durationTicks="38" ppq="96" velocity="0.913"/>
