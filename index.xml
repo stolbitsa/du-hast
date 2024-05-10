@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>du-hast</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <en>e5739e506b4e9afc7c26672ab798a856eb63d7a8f651fa011674d9a91405facc</en>
@@ -91,16 +91,19 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
-    <video name="du-hast_4_.mp4" size="437977" type="video/mp4" volume="1">aff3d3a58a0a9ef9d15cefffb582bad4356d2716895bf5e13e57b5536e260a68</video>
+    <video name="du-hast_6_.mp4" size="512761" type="video/mp4" volume="1">0e73aee3e583f8b0326737ac61944bb0d0ae3b86bb8d295660bfe39eb92cd44b</video>
     <notes>
-      <note number="1" values="1" ticks="119" durationTicks="46" ppq="96" velocity="0.729"/>
-      <note number="2" values="1" ticks="171" durationTicks="89" ppq="96" velocity="0.842"/>
-      <note number="3" values="1" ticks="268" durationTicks="95" ppq="96" velocity="0.822"/>
-      <note number="4" values="1" ticks="506" durationTicks="47" ppq="96" velocity="0.764"/>
-      <note number="5" values="1" ticks="552" durationTicks="44" ppq="96" velocity="0.822"/>
-      <note number="6" values="1" ticks="602" durationTicks="48" ppq="96" velocity="0.759"/>
-      <note number="7" values="1" ticks="649" durationTicks="48" ppq="96" velocity="0.722"/>
-      <note number="8" values="1" ticks="698" durationTicks="94" ppq="96" velocity="0.794"/>
+      <note number="1" values="1" ticks="143" durationTicks="46" ppq="96" velocity="0.724"/>
+      <note number="2" values="1" ticks="193" durationTicks="46" ppq="96" velocity="0.835"/>
+      <note number="3" values="1" ticks="240" durationTicks="44" ppq="96" velocity="0.819"/>
+      <note number="4" values="1" ticks="288" durationTicks="47" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="338" durationTicks="71" ppq="96" velocity="0.819"/>
+      <note number="6" values="1" ticks="431" durationTicks="48" ppq="96" velocity="0.756"/>
+      <note number="7" values="1" ticks="479" durationTicks="48" ppq="96" velocity="0.717"/>
+      <note number="8" values="1" ticks="529" durationTicks="46" ppq="96" velocity="0.787"/>
+      <note number="9" values="1" ticks="577" durationTicks="95" ppq="96" velocity="0.858"/>
+      <note number="10" values="1" ticks="673" durationTicks="95" ppq="96" velocity="0.724"/>
+      <note number="11" values="1" ticks="769" durationTicks="95" ppq="96" velocity="0.843"/>
     </notes>
   </exercise>
 </level>
