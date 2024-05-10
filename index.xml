@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>du-hast</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <en>e5739e506b4e9afc7c26672ab798a856eb63d7a8f651fa011674d9a91405facc</en>
@@ -74,14 +74,16 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
-    <video name="du-hast_3_.mp4" size="409705" type="video/mp4" volume="1">6fc75f20650c153aa5d90194dd85792fd161580bab865f16828bf31c177bec86</video>
+    <video name="du-hast_4_.mp4" size="437977" type="video/mp4" volume="1">923bcae90aef390293ac8590b4c9c23bc13abd96cd1932abe7a7c3fd9e12f253</video>
     <notes>
-      <note number="1" values="1" ticks="216" durationTicks="95" ppq="96" velocity="0.843"/>
-      <note number="2" values="1" ticks="552" durationTicks="38" ppq="96" velocity="0.779"/>
-      <note number="3" values="1" ticks="600" durationTicks="95" ppq="96" velocity="0.832"/>
-      <note number="4" values="1" ticks="937" durationTicks="35" ppq="96" velocity="0.764"/>
-      <note number="5" values="1" ticks="984" durationTicks="73" ppq="96" velocity="0.822"/>
-      <note number="6" values="1" ticks="1081" durationTicks="98" ppq="96" velocity="0.794"/>
+      <note number="1" values="1" ticks="119" durationTicks="46" ppq="96" velocity="0.729"/>
+      <note number="2" values="1" ticks="171" durationTicks="89" ppq="96" velocity="0.842"/>
+      <note number="3" values="1" ticks="268" durationTicks="95" ppq="96" velocity="0.822"/>
+      <note number="4" values="1" ticks="506" durationTicks="47" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="552" durationTicks="44" ppq="96" velocity="0.822"/>
+      <note number="6" values="1" ticks="602" durationTicks="48" ppq="96" velocity="0.759"/>
+      <note number="7" values="1" ticks="649" durationTicks="48" ppq="96" velocity="0.722"/>
+      <note number="8" values="1" ticks="698" durationTicks="94" ppq="96" velocity="0.794"/>
     </notes>
   </exercise>
   <exercise number="6">
