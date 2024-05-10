@@ -2,106 +2,116 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>du-hast</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
-    <en>627fda151ba7cae5b99703b9902b17e5206e4a335715e13a4677863baaeed3f3</en>
-    <ru>627fda151ba7cae5b99703b9902b17e5206e4a335715e13a4677863baaeed3f3</ru>
+    <en>e5739e506b4e9afc7c26672ab798a856eb63d7a8f651fa011674d9a91405facc</en>
+    <ru>1894daf546d99a5174949fdc1c11f2cd84be165ee71b5474a6a46a4f88cb85bc</ru>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
     <scale>minor</scale>
     <bpm>126</bpm>
-    <lowestNote>85</lowestNote>
+    <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
     <video name="du-hast_0_.mp4" size="2016988" type="video/mp4" volume="1">dd6621510972a609b7c122f9d5725d646ae88ad4e8528e5aad84e6cc128a1872</video>
     <notes>
-      <note number="1" values="1" ticks="180" durationTicks="95" ppq="96" velocity="0.843"/>
-      <note number="2" values="1" ticks="521" durationTicks="38" ppq="96" velocity="0.913"/>
-      <note number="3" values="1" ticks="568" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="4" values="1" ticks="901" durationTicks="35" ppq="96" velocity="0.913"/>
-      <note number="5" values="1" ticks="941" durationTicks="83" ppq="96" velocity="0.913"/>
-      <note number="6" values="1" ticks="1044" durationTicks="84" ppq="96" velocity="0.913"/>
+      <note number="1" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="816" durationTicks="38" ppq="96" velocity="0.779"/>
+      <note number="3" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.832"/>
+      <note number="4" values="1" ticks="1198" durationTicks="35" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="1250" durationTicks="71" ppq="96" velocity="0.822"/>
+      <note number="6" values="1" ticks="1345" durationTicks="84" ppq="96" velocity="0.794"/>
     </notes>
   </exercise>
   <exercise number="2">
-    <scale>major</scale>
-    <bpm>80</bpm>
+    <scale>minor</scale>
+    <bpm>126</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1</tonalities>
+    <tonalities>5</tonalities>
+    <video name="du-hast_1_.mp4" size="1201444" type="video/mp4" volume="1">a55194a4935df36e72b56f2bc171321fdaf5627ee2624d40735a0489dacd2085</video>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="95" ppq="96" velocity="0.843"/>
-      <note number="2" values="1" ticks="96" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="3" values="1" ticks="192" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="4" values="1" ticks="288" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="1" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="816" durationTicks="38" ppq="96" velocity="0.779"/>
+      <note number="3" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.832"/>
+      <note number="4" values="1" ticks="1198" durationTicks="35" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="1250" durationTicks="71" ppq="96" velocity="0.822"/>
+      <note number="6" values="1" ticks="1345" durationTicks="84" ppq="96" velocity="0.794"/>
     </notes>
   </exercise>
   <exercise number="3">
-    <scale>major</scale>
-    <bpm>80</bpm>
+    <scale>minor</scale>
+    <bpm>126</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1</tonalities>
+    <tonalities>5</tonalities>
+    <video name="du-hast_2_.mp4" size="1535292" type="video/mp4" volume="1">61f9be4b357f6c7c533a2f9d7a946d7ea88baa33692f54d4f30e8bbcaeb8aa72</video>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="95" ppq="96" velocity="0.843"/>
-      <note number="2" values="1" ticks="96" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="3" values="1" ticks="192" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="4" values="1" ticks="288" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="1" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="816" durationTicks="38" ppq="96" velocity="0.779"/>
+      <note number="3" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.832"/>
+      <note number="4" values="1" ticks="1198" durationTicks="35" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="1250" durationTicks="71" ppq="96" velocity="0.822"/>
+      <note number="6" values="1" ticks="1345" durationTicks="84" ppq="96" velocity="0.794"/>
     </notes>
   </exercise>
   <exercise number="4">
-    <scale>major</scale>
-    <bpm>80</bpm>
+    <scale>minor</scale>
+    <bpm>126</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1</tonalities>
+    <tonalities>5</tonalities>
+    <video name="du-hast_2_.mp4" size="1535292" type="video/mp4" volume="1">61f9be4b357f6c7c533a2f9d7a946d7ea88baa33692f54d4f30e8bbcaeb8aa72</video>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="95" ppq="96" velocity="0.843"/>
-      <note number="2" values="1" ticks="96" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="3" values="1" ticks="192" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="4" values="1" ticks="288" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="1" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="816" durationTicks="38" ppq="96" velocity="0.779"/>
+      <note number="3" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.832"/>
+      <note number="4" values="1" ticks="1198" durationTicks="35" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="1250" durationTicks="71" ppq="96" velocity="0.822"/>
+      <note number="6" values="1" ticks="1345" durationTicks="84" ppq="96" velocity="0.794"/>
     </notes>
   </exercise>
   <exercise number="5">
-    <scale>major</scale>
-    <bpm>80</bpm>
+    <scale>minor</scale>
+    <bpm>126</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1</tonalities>
+    <tonalities>5</tonalities>
+    <video name="du-hast_2_.mp4" size="1535292" type="video/mp4" volume="1">61f9be4b357f6c7c533a2f9d7a946d7ea88baa33692f54d4f30e8bbcaeb8aa72</video>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="95" ppq="96" velocity="0.843"/>
-      <note number="2" values="1" ticks="96" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="3" values="1" ticks="192" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="4" values="1" ticks="288" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="1" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="816" durationTicks="38" ppq="96" velocity="0.779"/>
+      <note number="3" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.832"/>
+      <note number="4" values="1" ticks="1198" durationTicks="35" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="1250" durationTicks="71" ppq="96" velocity="0.822"/>
+      <note number="6" values="1" ticks="1345" durationTicks="84" ppq="96" velocity="0.794"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>minor</scale>
+    <bpm>126</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="du-hast_2_.mp4" size="1535292" type="video/mp4" volume="1">61f9be4b357f6c7c533a2f9d7a946d7ea88baa33692f54d4f30e8bbcaeb8aa72</video>
+    <notes>
+      <note number="1" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="816" durationTicks="38" ppq="96" velocity="0.779"/>
+      <note number="3" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.832"/>
+      <note number="4" values="1" ticks="1198" durationTicks="35" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="1250" durationTicks="71" ppq="96" velocity="0.822"/>
+      <note number="6" values="1" ticks="1345" durationTicks="84" ppq="96" velocity="0.794"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>minor</scale>
+    <bpm>126</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="du-hast_2_.mp4" size="1535292" type="video/mp4" volume="1">61f9be4b357f6c7c533a2f9d7a946d7ea88baa33692f54d4f30e8bbcaeb8aa72</video>
+    <notes>
+      <note number="1" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="816" durationTicks="38" ppq="96" velocity="0.779"/>
+      <note number="3" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.832"/>
+      <note number="4" values="1" ticks="1198" durationTicks="35" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="1250" durationTicks="71" ppq="96" velocity="0.822"/>
+      <note number="6" values="1" ticks="1345" durationTicks="84" ppq="96" velocity="0.794"/>
     </notes>
   </exercise>
 </level>
