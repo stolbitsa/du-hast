@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>du-hast</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <en>e5739e506b4e9afc7c26672ab798a856eb63d7a8f651fa011674d9a91405facc</en>
@@ -104,6 +104,21 @@
       <note number="9" values="1" ticks="577" durationTicks="95" ppq="96" velocity="0.858"/>
       <note number="10" values="1" ticks="673" durationTicks="95" ppq="96" velocity="0.724"/>
       <note number="11" values="1" ticks="769" durationTicks="95" ppq="96" velocity="0.843"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>minor</scale>
+    <bpm>126</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="du-hast_8_.mp4" size="938334" type="video/mp4" volume="1">19a99aabc697cd9ce08d718810f51e4080b8688e48c4b69877acff9032ce8e2d</video>
+    <notes>
+      <note number="1" values="1" ticks="193" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="528" durationTicks="38" ppq="96" velocity="0.772"/>
+      <note number="3" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="4" values="1" ticks="913" durationTicks="35" ppq="96" velocity="0.764"/>
+      <note number="5" values="1" ticks="961" durationTicks="71" ppq="96" velocity="0.819"/>
+      <note number="6" values="1" ticks="1057" durationTicks="84" ppq="96" velocity="0.787"/>
     </notes>
   </exercise>
 </level>
