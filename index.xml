@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>du-hast</repo>
-  <version>v1.0.14</version>
+  <version>v1.0.15</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <en>e5739e506b4e9afc7c26672ab798a856eb63d7a8f651fa011674d9a91405facc</en>
@@ -14,7 +14,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
-    <video name="du-hast_0_.mp4" size="2016988" type="video/mp4" volume="1">dd6621510972a609b7c122f9d5725d646ae88ad4e8528e5aad84e6cc128a1872</video>
+    <video name="du-hast_14_.mp4" size="1897230" type="video/mp4" volume="1">d1f3e7946e8a87e417fca87d7436f603946b5e98e5a375469cb10acee573b1c9</video>
     <notes>
       <note number="1" values="1" ticks="168" durationTicks="95" ppq="96" velocity="0.843"/>
       <note number="2" values="1" ticks="503" durationTicks="38" ppq="96" velocity="0.779"/>
@@ -29,7 +29,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
-    <video name="du-hast_1_.mp4" size="1201444" type="video/mp4" volume="1">a55194a4935df36e72b56f2bc171321fdaf5627ee2624d40735a0489dacd2085</video>
+    <video name="du-hast_15_.mp4" size="1291287" type="video/mp4" volume="1">d31e61c2d3402a643d93df5c258ec1e564487c5218e6e0d2af99a711f23a5a9d</video>
     <notes>
       <note number="1" values="1" ticks="144" durationTicks="95" ppq="96" velocity="0.843"/>
       <note number="2" values="1" ticks="479" durationTicks="38" ppq="96" velocity="0.779"/>
@@ -44,7 +44,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
-    <video name="du-hast_2_.mp4" size="1535292" type="video/mp4" volume="1">61f9be4b357f6c7c533a2f9d7a946d7ea88baa33692f54d4f30e8bbcaeb8aa72</video>
+    <video name="du-hast_16_.mp4" size="1395655" type="video/mp4" volume="1">f3310ec5d963c1fde9335764e255b7c7819a7e1ebc1ece67f242e4a6188a42f2</video>
     <notes>
       <note number="1" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.843"/>
       <note number="2" values="1" ticks="816" durationTicks="38" ppq="96" velocity="0.779"/>
