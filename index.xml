@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>du-hast</repo>
-  <version>v1.0.16</version>
+  <version>v1.0.17</version>
   <next number="1" owner="Fistachka" repo="house"/>
   <readme>
-    <ru>1894daf546d99a5174949fdc1c11f2cd84be165ee71b5474a6a46a4f88cb85bc</ru>
-    <en>e5739e506b4e9afc7c26672ab798a856eb63d7a8f651fa011674d9a91405facc</en>
+    <ru>5ca2af6218a60ac0c2cc9bb4b7e031ef4d3ee2ddb9862c5bf68685ee8ea15398</ru>
+    <en>570540c172c9616aaad3142f8ea07f495c3462990af2e60c5eca32abfd5bfb3e</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
