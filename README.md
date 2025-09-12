@@ -6,7 +6,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W3q8Od5qJio?si=iiOKJ2K9BiMyew_H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![]https://github.com/user-attachments/assets/fc4e4260-4064-4ac1-83de-c554e18b5a8e)
+![](https://github.com/user-attachments/assets/fc4e4260-4064-4ac1-83de-c554e18b5a8e)
 
 
 Предыдущий урок: stolbitsa.com/stolbitsa/tonic-2<br><br>
